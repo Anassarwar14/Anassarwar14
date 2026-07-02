@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b5876,100:4e4376&height=140&section=header&animation=fadeIn&fontAlignY=38&descAlignY=55&descSize=20" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8F5EC,35:E7DFC6,70:A8A29E,100:292524&height=160&section=header&animation=fadeIn" width="100%"/>
 <img width="506" height="186" alt="20260702-2128-03 5100293" src="https://github.com/user-attachments/assets/d8d47e3a-921a-45c0-88f4-ea329ee48a9f" />
 
 
@@ -142,4 +141,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b5876,100:4e4376&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8F5EC,35:E7DFC6,70:A8A29E,100:292524&height=120&section=footer" width="100%"/>
