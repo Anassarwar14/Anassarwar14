@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b5876,100:4e4376&height=140&section=header&animation=fadeIn&fontAlignY=38&descAlignY=55&descSize=20" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=38&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=800&height=70&lines=Hey%2C+I'm+Anas;I+build+full-stack+AI+products;Currently+shipping+with+Agents;Making+LLMs+slightly+less+confident+when+theyre+wrong" alt="Typing SVG" />
-</a>
+<img width="506" height="186" alt="20260702-2128-03 5100293" src="https://github.com/user-attachments/assets/d8d47e3a-921a-45c0-88f4-ea329ee48a9f" />
+
 
 <br/>
+
 
 <img src="https://komarev.com/ghpvc/?username=anassarwar14&label=Profile%20Views&color=6d48c6&style=for-the-badge" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/anassarwar14?label=Followers&style=for-the-badge&color=2b5876&logo=github" alt="Followers"/>
@@ -16,7 +16,11 @@
 
 <br/>
 
+
 ## About Me
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=38&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=800&height=70&lines=Hey%2C+I'm+Anas;I+build+full-stack+AI+products;Currently+shipping+with+Agents;Making+LLMs+slightly+less+confident+when+theyre+wrong" alt="Typing SVG" />
+</a>
 
 <img align="right" width="230" src="https://media.giphy.com/media/3o7abtn7Du33FF7Cgw/giphy.gif" alt="typing cat"/>
 
